@@ -1,0 +1,67 @@
+.snap1{
+    background-color:white ;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    transform: translate(575px);
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    padding-top:20px;
+}
+button{
+    border-radius: 20px;
+    width: 60px;
+    height: 30px;
+    background-color: rgb(0, 187, 255);
+    border: none;
+    color: white;
+}
+.snap{
+    background-color: rgb(234, 234, 234);
+    width: 100%;
+    height: 640px;
+    padding-top: 100px;
+    text-align: center;
+}
+.fa-snapchat{
+    font-size: 50px;
+}
+input{
+    width: 280px;
+    height: 40px;
+}
+.p1{
+    transform: translate();
+    font-family: 'Gabarito', sans-serif;
+    font-weight: 200; 
+}
+h1{
+    font-family: 'Gabarito', sans-serif;
+    font-weight: 200;  
+}
+.p2{
+    color: rgb(0, 187, 255);
+    font-family: 'Gabarito', sans-serif;
+    font-weight: 200; 
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Gabarito', sans-serif;
+    font-weight: 200; 
+}input{
+    border-bottom-color: rgb(0, 187, 255);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: rgb(234, 234, 234);
+    border-radius: 7px;
+}
+label{
+    font-family: 'Gabarito', sans-serif;
+    font-weight: 200; 
+}
+button:hover{
+    background-color: rgb(79, 180, 243);
+    width: 65px;
+    height: 31px;
+}
